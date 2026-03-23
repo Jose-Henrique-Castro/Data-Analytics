@@ -1,1 +1,37 @@
+📊 Dashboard de Vendas - Power BI
+Este repositório contém um projeto de análise de dados desenvolvido no Power BI, focado no monitoramento de performance de vendas. O objetivo é fornecer uma visão clara dos principais indicadores (KPIs) e tendências para auxiliar na tomada de decisão.
 
+🚀 Visualização do Projeto
+Dica: Para que a imagem apareça abaixo, salve o seu print na pasta screenshots do seu repositório com o nome dashboard.png.
+
+📋 Funcionalidades e Análises
+O dashboard apresenta as seguintes métricas e visões:
+
+Indicadores Principais (KPIs):
+
+Faturamento Total: Visão macro da receita gerada.
+
+Quantidade Vendida: Volume total de itens comercializados.
+
+Ticket Médio: Valor médio gasto por transação.
+
+Análise por Categoria: Distribuição percentual do faturamento entre os setores (Ex: Informática e Móveis).
+
+Performance de Produtos: Ranking dos produtos que mais geram receita (Monitor, Cadeira, etc.).
+
+Sazonalidade: Gráfico de linha demonstrando a evolução do faturamento ao longo dos meses.
+
+Filtros Dinâmicos: Segmentação por Cidade (Goiânia, Brasília, Anápolis) e Categoria.
+
+🛠️ Tecnologias Utilizadas
+Power BI: Construção dos visuais e tratamento de dados.
+
+DAX: Criação de medidas calculadas para indicadores.
+
+Excel/CSV: Fonte de dados utilizada no projeto.
+
+📂 Como visualizar este projeto
+Arquivo Relatório-Vendas.pbix: Você pode baixar o arquivo na pasta /pbix e abri-lo no Power BI Desktop.
+
+✍️ Autor
+Linkedin -> José Henrique Guimarães de Castro Lima
